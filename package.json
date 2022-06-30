@@ -1,0 +1,19 @@
+{
+  "name": "webscraplerjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carnatie",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^15.1.1",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
